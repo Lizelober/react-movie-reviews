@@ -1,2 +1,2 @@
-# react-movie-reviews
+# react-movie-reviews-backend
 Fullstack React.js applications with Node.js, Express.js &amp; MongoDB (MERN)
